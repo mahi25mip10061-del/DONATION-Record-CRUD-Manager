@@ -71,4 +71,5 @@ while True:
         delete_donation()
         break
     else:
+
         print("Invalid choice. Please try again.") 
