@@ -98,3 +98,9 @@ it is ideal for small NGOs, events, fundraisers, classrooms, or college clubs th
                    ▪ Program should display:
                        "Exiting the program"
                    ▪ Program stops
+
+▷  AUTHOR :-
+     ~ MAHI GUPTA 
+       Reg no.- 25MIP10061
+
+▷ Screenshots :-
