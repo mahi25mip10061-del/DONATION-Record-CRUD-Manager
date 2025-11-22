@@ -67,3 +67,34 @@ it is ideal for small NGOs, events, fundraisers, classrooms, or college clubs th
             3. Update Donation record
             4. Delete Donation record
             5. Exit
+▷ INSTRUCTIONS FOR TESTING :-
+      To verify that the donation records CRUD manager works correctly, follow the steps below :
+           1. Test "Add Donation"
+                ▪ Run the program
+                ▪ Choose option 1
+                ▪ Enter sample details like:
+                     ▫ donor Name: Tanya
+                     ▫ amount: 800
+                     ▫ date : 10-11-2025
+                     ▫ Phone : 96873xxxxx
+                ▪ You should see:
+                      "Donation added successfully!"
+            2. Test "View Donations"
+                  ▪ Choose option 2
+                  ▪ You should see the donation you just added listed on the screen
+            3. Test "Update Donation"
+                   ▪ Choose option 3
+                   ▪ Enter the donor name you added
+                   ▪ Enter new updated details
+                   ▪ You should see:
+                       "Donation updated successfully!"
+            4. Test "Delete Donation"
+                   ▪ Choose option 4
+                   ▪ Enter the donor name
+                   ▪ You should see:
+                       "Donation deleted successfully!"
+            5. Test "Exit"
+                   ▪ Choose option 5
+                   ▪ Program should display:
+                       "Exiting the program"
+                   ▪ Program stops
